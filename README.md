@@ -1,4 +1,5 @@
-# Random_Forest
+# Random Forest
 
-example code to fit a random forest model
-data is not in this repository
+Example code to fit a random forest model.
+
+Data is not in this repository.
